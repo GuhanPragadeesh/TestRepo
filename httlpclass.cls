@@ -22,6 +22,3 @@ public class httpCallOutCtrl {
 }
 
 //change
-//test 
-//branch 
-// cool
